@@ -1,4 +1,4 @@
-import xyz
+import time
 
 while True:
 
