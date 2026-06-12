@@ -1,5 +1,5 @@
 import time
 
 while True
-    print("Running Version 8.0 bad firmware")
+    print("Running Version 9.0 good firmware")
     time.sleep(3)
