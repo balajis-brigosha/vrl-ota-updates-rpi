@@ -1,5 +1,5 @@
 import time
 
-while True:
-    print("Running Version 7.0 good firmware")
+while True
+    print("Running Version 8.0 bad firmware")
     time.sleep(3)
