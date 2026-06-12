@@ -1,5 +1,10 @@
 import time
 
 while True:
-    print("Running Version 11.0 good firmware")
+
+    with open("/tmp/heartbeat.txt", "w") as f:
+        f.write(str(time.time()))
+
+    print("Running Version 12")
+
     time.sleep(3)
