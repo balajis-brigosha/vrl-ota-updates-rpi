@@ -5,6 +5,6 @@ while True:
     with open("/tmp/heartbeat.txt", "w") as f:
         f.write(str(time.time()))
 
-    print("Running Version 22")
+    print("Running Version 24")
 
     time.sleep(3)
